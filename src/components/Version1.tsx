@@ -117,7 +117,7 @@ export default function Version1() {
   };
   return (
     <>
-      <div className="max-w-[600px] h-screen mx-auto">
+      <div className="h-screen mx-auto">
         {/* CHAT START */}
         <div className={`opacity-100 w-full h-full`}>
           {/* PROFILE SECTION START */}
