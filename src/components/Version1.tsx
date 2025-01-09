@@ -4,7 +4,7 @@ import send from "../assets/send.png";
 import { Chat } from "../enum/EnumList";
 import ThreeDotsBouncing from "./ThreeDotsBouncing";
 import axios from "axios";
-import { urlGreetings, urlMainFlow } from "../urlEndpoints";
+import { urlMainFlow } from "../urlEndpoints";
 // import { v4 as uuidv4 } from "uuid";
 
 // const dummyChatData = [
