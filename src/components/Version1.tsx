@@ -54,8 +54,6 @@ export default function Version1() {
 
     const reqBody = {
       user_prompt: input,
-      product_id: "2",
-      nip: "23020224",
     };
 
     console.log("reqBody", reqBody);
